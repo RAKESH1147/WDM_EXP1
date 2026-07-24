@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### NAME: RAKESH K S
+### REG.NO: 212224040264
+### DATE: 24/07/2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -80,6 +82,8 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1235" height="736" alt="image" src="https://github.com/user-attachments/assets/d030a3ac-016e-4b87-9f52-4fc3d4c5bbd8" />
+
 
 
 ### 2) Remove -> Pre-Processing Technique:
