@@ -83,6 +83,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="1235" height="736" alt="image" src="https://github.com/user-attachments/assets/d030a3ac-016e-4b87-9f52-4fc3d4c5bbd8" />
+<img width="1227" height="733" alt="image" src="https://github.com/user-attachments/assets/6497a3b2-fb1e-4f21-a87d-876d38188a41" />
 
 
 
@@ -101,6 +102,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1227" height="732" alt="image" src="https://github.com/user-attachments/assets/54aa3277-ce26-4300-8b43-628b23aea2d7" />
+<img width="1237" height="737" alt="image" src="https://github.com/user-attachments/assets/2fc8e017-c5b3-4a52-a828-581d2414046e" />
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -118,6 +121,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1232" height="737" alt="image" src="https://github.com/user-attachments/assets/5185b8eb-2410-43d9-84e1-91174cef34a8" />
+<img width="1236" height="733" alt="image" src="https://github.com/user-attachments/assets/67c70e08-b508-4369-820d-94f512327d33" />
 
 
 ### RESULT: 
